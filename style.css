@@ -1,0 +1,25 @@
+/* arquivo style.css */
+body{
+    background-color:crimson;    
+    color: chocolate;
+    font-family: Verdana,arial, 'sans-serif';
+    }
+
+    /* todos títulos h1 */
+    h3{
+
+        color:black;
+        text-align: center;  
+        
+    }
+
+    ol{
+color:blueviolet;
+text-align: center;
+    }
+
+    li{
+        color:blueviolet;
+        text-align: center;
+
+    }
