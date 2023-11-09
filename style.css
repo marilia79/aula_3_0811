@@ -23,3 +23,13 @@ text-align: center;
         text-align: center;
 
     }
+
+    /* div com a class = 'container' */
+    .container{
+        max-width: 980px; /*largura maxima*/
+        margin: auto;    /*centralizar a div*/
+        border: 1px solid black;
+        padding: 50px;  /*espaçamento interno*/
+        background-color: pink;
+
+    }
